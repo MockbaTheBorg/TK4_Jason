@@ -43,4 +43,7 @@ Remove some terminals, if step 4 was executed:<br>
 . On the terminal, type HERC01 to logon.<br>
 . An error message will appear, press PA1 (ctrl-F1).<br>
 . Type now LOGON HERC01.<br>
-. Proceed with the regular logon process.
+. Proceed with the regular logon process.<br>
+<br>
+A JCL job called nocheck.jcl is provided to eliminate this error.<br>
+After running the JCL job a CLPA IPL is required to apply the changes.
