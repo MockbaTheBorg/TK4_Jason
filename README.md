@@ -17,6 +17,7 @@
 . Extract it onto a separate folder.<br>
 . Add this separate folder to the windows PATH variable.<br>
 . Copy hercules.exe from this folder onto the tk4-J folder.<br>
+. Copy also dasdls.exe and tapemap.exe onto the tk4-J folder.<br>
 <br>
 **Step 4 (Optional):**<br>
 Remove some terminals to cleanup the setup:<br>
