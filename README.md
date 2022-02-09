@@ -5,7 +5,7 @@
 ### Installation:
 
 **Step 1:**<br>
-. Download "tk4-_v1.00_current.zip" from http://wotho.ethz.ch/tk4-/<br>
+. Download "tk4-_v1.00_current.zip" from https://wotho.ethz.ch/tk4-/<br>
 . Extract it onto a folder called, for example, "tk4-J".<br>
 <br>
 **Step 2:**<br>
